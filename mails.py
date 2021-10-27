@@ -2,8 +2,7 @@
 from RPA.Email.ImapSmtp import ImapSmtp
 
 emailid = "devashish.nigam89@gmail.com"
-email_password = "myworld@19891030"
-# imapserver="outlook.office365.com"
+email_password = "enter password"
 imapserver = "imap.gmail.com"
 imapport = 993
 smtpserver = "smtp.gmail.com"
